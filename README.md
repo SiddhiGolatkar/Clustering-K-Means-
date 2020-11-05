@@ -2,8 +2,8 @@
 ## INSOFE - Project 3
 
 - Dendrogram
-- AgglomerativeClustering
-- K-Means
+- Agglomerative Clustering
+- K-Means Clustering
 
 Selecting the best k value - using
 - Elbow Plot
